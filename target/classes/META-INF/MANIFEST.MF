@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringEureka
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JOAQUIN
+Implementation-Vendor-Id: com.joaquin
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/SpringEureka
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
